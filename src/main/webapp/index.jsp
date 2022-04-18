@@ -5,6 +5,5 @@
 <h1>This is an example for github webhooks and triggering jenkins job</h1>
 <h1>This is an example for jenkins pipeline</h1>
 <h1>This is a declarative pipeline example</h1>
-<h1>Testing github webhook push</h1>
 </body>
 </html>
