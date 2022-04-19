@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>Lab exercise to Push changes to Test server</h1>
+<h1>Lab exercise to Push changes to Test server using webhooks</h1>
 </body>
 </html>
